@@ -1,6 +1,6 @@
 {
   "name": "divide-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Divide object returning and array of k objects (ideally equal in size)",
   "main": "index.js",
   "scripts": {
