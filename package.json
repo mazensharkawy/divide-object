@@ -1,0 +1,19 @@
+{
+  "name": "divide-object",
+  "version": "1.0.0",
+  "description": "Divide object returning and array of k objects (ideally equal in size)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazensharkawy/divide-object.git"
+  },
+  "author": "Mazen Sharkawy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazensharkawy/divide-object/issues"
+  },
+  "homepage": "https://github.com/mazensharkawy/divide-object#readme"
+}
